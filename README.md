@@ -5,7 +5,7 @@ Getting started
 Using a remote source
 If you want to create an app that shows the content of a remote website
 
-uncomment line 24 in MainActivity.java and replace https://admstore.cz with your url
+line 24 in MainActivity.java --> replace https://admstore.cz with your url
 
 mWebView.loadUrl("https://admstore.cz");
 open the MyWebViewClient.java file and replace admstore.cz on line 15 with your hostname
