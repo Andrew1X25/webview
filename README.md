@@ -87,8 +87,8 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 To **clone** and start using this template:
 
 ```sh
-git clone https://github.com/yourusername/AndroidWebViewTemplate.git
-cd AndroidWebViewTemplate
+git clone https://github.com/Andrew1X25/webview.git
+cd webview
 ```
 
 Happy coding! 🚀
