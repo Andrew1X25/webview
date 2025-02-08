@@ -1,4 +1,3 @@
-Tady je popis pro GitHub repository ve stylu běžných README souborů:
 
 ---
 
